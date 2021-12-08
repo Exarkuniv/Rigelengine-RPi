@@ -1,5 +1,5 @@
-# rigelengine-RPi
-rigelengine for Duke Nukem 2 on the Pi4
+# Rigelengine-RPi
+Rigelengine for Duke Nukem 2 on the Pi4
 
 ![rigelengine-RPI](https://i.ytimg.com/vi/vVoZnMZslww/maxresdefault.jpg)
 
