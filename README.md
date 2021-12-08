@@ -5,4 +5,4 @@ rigelengine for Duke Nukem 2 on the Pi4
 
 To install
 
-`wget https://raw.githubusercontent.com/Exarkuniv/Nblood-RPI/Master/nblood.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
+`wget https://raw.githubusercontent.com/Exarkuniv/rigelengine-RPi/Master/rigelengine.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/`
