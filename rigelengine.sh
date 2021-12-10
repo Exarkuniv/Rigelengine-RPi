@@ -34,8 +34,7 @@ function build_rigelengine() {
 
     make
 
-    md_ret_require=(
-    )
+    md_ret_require="$md_build/build/src/RigelEngine"
 }
 
 function install_rigelengine() {
