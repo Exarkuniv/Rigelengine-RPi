@@ -18,7 +18,7 @@ rp_module_flags="noinstclean"
 
 
 function depends_rigelengine() {
-   getDepends cmake libboost-all-dev libsdl2-dev libsdl2-mixer-dev
+   getDepends cmake libsdl2-dev libsdl2-mixer-dev
 }
 
 
